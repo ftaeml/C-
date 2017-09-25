@@ -12,7 +12,11 @@ class Worker
         using(var connection = factory.CreateConnection())
         using(var channel = connection.CreateModel())
         {
-            channel.QueueDeclare(queue: "task_queue", durable: true, exclusive: false, autoDelete: false, arguments: null);
+            channel.QueueDeclare(queue: "task_queue",
+                                 durable: true, 
+                                 exclusive: false, 
+                                 autoDelete: false, 
+                                 arguments: null);
 
             channel.BasicQos(prefetchSize: 0, prefetchCount: 1, global: false);
 
@@ -32,7 +36,9 @@ class Worker
 
                 channel.BasicAck(deliveryTag: ea.DeliveryTag, multiple: false);
             };
-            channel.BasicConsume(queue: "task_queue", autoAck: false, consumer: consumer);
+            channel.BasicConsume(queue: "task_queue", 
+                                 autoAck: false, 
+                                 consumer: consumer);
 
             Console.WriteLine(" Press [enter] to exit.");
             Console.ReadLine();

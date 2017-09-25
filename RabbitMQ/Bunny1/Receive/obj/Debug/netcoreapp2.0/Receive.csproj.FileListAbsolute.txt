@@ -8,3 +8,13 @@
 /home/ftaeml/Receive/obj/Debug/netcoreapp2.0/Receive.AssemblyInfo.cs
 /home/ftaeml/Receive/obj/Debug/netcoreapp2.0/Receive.dll
 /home/ftaeml/Receive/obj/Debug/netcoreapp2.0/Receive.pdb
+/home/ftaeml/C#/RabbitMQ/Bunny1/Receive/bin/Debug/netcoreapp2.0/Receive.deps.json
+/home/ftaeml/C#/RabbitMQ/Bunny1/Receive/bin/Debug/netcoreapp2.0/Receive.runtimeconfig.json
+/home/ftaeml/C#/RabbitMQ/Bunny1/Receive/bin/Debug/netcoreapp2.0/Receive.runtimeconfig.dev.json
+/home/ftaeml/C#/RabbitMQ/Bunny1/Receive/bin/Debug/netcoreapp2.0/Receive.dll
+/home/ftaeml/C#/RabbitMQ/Bunny1/Receive/bin/Debug/netcoreapp2.0/Receive.pdb
+/home/ftaeml/C#/RabbitMQ/Bunny1/Receive/obj/Debug/netcoreapp2.0/Receive.csproj.CoreCompileInputs.cache
+/home/ftaeml/C#/RabbitMQ/Bunny1/Receive/obj/Debug/netcoreapp2.0/Receive.AssemblyInfoInputs.cache
+/home/ftaeml/C#/RabbitMQ/Bunny1/Receive/obj/Debug/netcoreapp2.0/Receive.AssemblyInfo.cs
+/home/ftaeml/C#/RabbitMQ/Bunny1/Receive/obj/Debug/netcoreapp2.0/Receive.dll
+/home/ftaeml/C#/RabbitMQ/Bunny1/Receive/obj/Debug/netcoreapp2.0/Receive.pdb

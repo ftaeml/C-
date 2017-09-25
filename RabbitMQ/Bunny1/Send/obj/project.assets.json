@@ -4192,11 +4192,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ftaeml/Send/Send.csproj",
+      "projectUniqueName": "/home/ftaeml/C#/RabbitMQ/Bunny1/Send/Send.csproj",
       "projectName": "Send",
-      "projectPath": "/home/ftaeml/Send/Send.csproj",
+      "projectPath": "/home/ftaeml/C#/RabbitMQ/Bunny1/Send/Send.csproj",
       "packagesPath": "/home/ftaeml/.nuget/packages/",
-      "outputPath": "/home/ftaeml/Send/obj/",
+      "outputPath": "/home/ftaeml/C#/RabbitMQ/Bunny1/Send/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

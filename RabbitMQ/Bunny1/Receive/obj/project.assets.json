@@ -4192,11 +4192,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ftaeml/Receive/Receive.csproj",
+      "projectUniqueName": "/home/ftaeml/C#/RabbitMQ/Bunny1/Receive/Receive.csproj",
       "projectName": "Receive",
-      "projectPath": "/home/ftaeml/Receive/Receive.csproj",
+      "projectPath": "/home/ftaeml/C#/RabbitMQ/Bunny1/Receive/Receive.csproj",
       "packagesPath": "/home/ftaeml/.nuget/packages/",
-      "outputPath": "/home/ftaeml/Receive/obj/",
+      "outputPath": "/home/ftaeml/C#/RabbitMQ/Bunny1/Receive/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

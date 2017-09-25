@@ -1,0 +1,10 @@
+/home/ftaeml/Array/bin/Debug/netcoreapp2.0/Array.deps.json
+/home/ftaeml/Array/bin/Debug/netcoreapp2.0/Array.runtimeconfig.json
+/home/ftaeml/Array/bin/Debug/netcoreapp2.0/Array.runtimeconfig.dev.json
+/home/ftaeml/Array/bin/Debug/netcoreapp2.0/Array.dll
+/home/ftaeml/Array/bin/Debug/netcoreapp2.0/Array.pdb
+/home/ftaeml/Array/obj/Debug/netcoreapp2.0/Array.csproj.CoreCompileInputs.cache
+/home/ftaeml/Array/obj/Debug/netcoreapp2.0/Array.AssemblyInfoInputs.cache
+/home/ftaeml/Array/obj/Debug/netcoreapp2.0/Array.AssemblyInfo.cs
+/home/ftaeml/Array/obj/Debug/netcoreapp2.0/Array.dll
+/home/ftaeml/Array/obj/Debug/netcoreapp2.0/Array.pdb

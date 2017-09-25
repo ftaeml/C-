@@ -1,0 +1,10 @@
+/home/ftaeml/C#/Prometeus/MergeSort/obj/Debug/netcoreapp2.0/MergeSort.csproj.CoreCompileInputs.cache
+/home/ftaeml/C#/Prometeus/MergeSort/obj/Debug/netcoreapp2.0/MergeSort.AssemblyInfoInputs.cache
+/home/ftaeml/C#/Prometeus/MergeSort/obj/Debug/netcoreapp2.0/MergeSort.AssemblyInfo.cs
+/home/ftaeml/C#/Prometeus/MergeSort/bin/Debug/netcoreapp2.0/MergeSort.deps.json
+/home/ftaeml/C#/Prometeus/MergeSort/bin/Debug/netcoreapp2.0/MergeSort.runtimeconfig.json
+/home/ftaeml/C#/Prometeus/MergeSort/bin/Debug/netcoreapp2.0/MergeSort.runtimeconfig.dev.json
+/home/ftaeml/C#/Prometeus/MergeSort/bin/Debug/netcoreapp2.0/MergeSort.dll
+/home/ftaeml/C#/Prometeus/MergeSort/bin/Debug/netcoreapp2.0/MergeSort.pdb
+/home/ftaeml/C#/Prometeus/MergeSort/obj/Debug/netcoreapp2.0/MergeSort.dll
+/home/ftaeml/C#/Prometeus/MergeSort/obj/Debug/netcoreapp2.0/MergeSort.pdb

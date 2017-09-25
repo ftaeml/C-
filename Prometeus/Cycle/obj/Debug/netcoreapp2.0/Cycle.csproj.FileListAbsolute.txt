@@ -1,0 +1,10 @@
+/home/ftaeml/Cycle/bin/Debug/netcoreapp2.0/Cycle.deps.json
+/home/ftaeml/Cycle/bin/Debug/netcoreapp2.0/Cycle.runtimeconfig.json
+/home/ftaeml/Cycle/bin/Debug/netcoreapp2.0/Cycle.runtimeconfig.dev.json
+/home/ftaeml/Cycle/bin/Debug/netcoreapp2.0/Cycle.dll
+/home/ftaeml/Cycle/bin/Debug/netcoreapp2.0/Cycle.pdb
+/home/ftaeml/Cycle/obj/Debug/netcoreapp2.0/Cycle.csproj.CoreCompileInputs.cache
+/home/ftaeml/Cycle/obj/Debug/netcoreapp2.0/Cycle.AssemblyInfoInputs.cache
+/home/ftaeml/Cycle/obj/Debug/netcoreapp2.0/Cycle.AssemblyInfo.cs
+/home/ftaeml/Cycle/obj/Debug/netcoreapp2.0/Cycle.dll
+/home/ftaeml/Cycle/obj/Debug/netcoreapp2.0/Cycle.pdb
