@@ -1,0 +1,10 @@
+/home/ftaeml/C#/RabbitMQ/Bunny3/EmitLogs/bin/Debug/netcoreapp2.0/EmitLogs.deps.json
+/home/ftaeml/C#/RabbitMQ/Bunny3/EmitLogs/bin/Debug/netcoreapp2.0/EmitLogs.runtimeconfig.json
+/home/ftaeml/C#/RabbitMQ/Bunny3/EmitLogs/bin/Debug/netcoreapp2.0/EmitLogs.runtimeconfig.dev.json
+/home/ftaeml/C#/RabbitMQ/Bunny3/EmitLogs/bin/Debug/netcoreapp2.0/EmitLogs.dll
+/home/ftaeml/C#/RabbitMQ/Bunny3/EmitLogs/bin/Debug/netcoreapp2.0/EmitLogs.pdb
+/home/ftaeml/C#/RabbitMQ/Bunny3/EmitLogs/obj/Debug/netcoreapp2.0/EmitLogs.csproj.CoreCompileInputs.cache
+/home/ftaeml/C#/RabbitMQ/Bunny3/EmitLogs/obj/Debug/netcoreapp2.0/EmitLogs.AssemblyInfoInputs.cache
+/home/ftaeml/C#/RabbitMQ/Bunny3/EmitLogs/obj/Debug/netcoreapp2.0/EmitLogs.AssemblyInfo.cs
+/home/ftaeml/C#/RabbitMQ/Bunny3/EmitLogs/obj/Debug/netcoreapp2.0/EmitLogs.dll
+/home/ftaeml/C#/RabbitMQ/Bunny3/EmitLogs/obj/Debug/netcoreapp2.0/EmitLogs.pdb

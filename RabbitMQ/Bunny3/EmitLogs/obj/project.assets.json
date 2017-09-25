@@ -4192,11 +4192,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ftaeml/C#/RabbitMQ/Bunny3/EmitLog/EmitLog.csproj",
-      "projectName": "EmitLog",
-      "projectPath": "/home/ftaeml/C#/RabbitMQ/Bunny3/EmitLog/EmitLog.csproj",
+      "projectUniqueName": "/home/ftaeml/C#/RabbitMQ/Bunny3/EmitLogs/EmitLogs.csproj",
+      "projectName": "EmitLogs",
+      "projectPath": "/home/ftaeml/C#/RabbitMQ/Bunny3/EmitLogs/EmitLogs.csproj",
       "packagesPath": "/home/ftaeml/.nuget/packages/",
-      "outputPath": "/home/ftaeml/C#/RabbitMQ/Bunny3/EmitLog/obj/",
+      "outputPath": "/home/ftaeml/C#/RabbitMQ/Bunny3/EmitLogs/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.0": {
-      "EmitLog/1.0.0": {
+      "EmitLogs/1.0.0": {
         "dependencies": {
           "RabbitMQ.Client": "5.0.1"
         },
         "runtime": {
-          "EmitLog.dll": {}
+          "EmitLogs.dll": {}
         }
       },
       "Microsoft.NETCore.Targets/1.1.0": {},
@@ -689,7 +689,7 @@
     }
   },
   "libraries": {
-    "EmitLog/1.0.0": {
+    "EmitLogs/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -7,11 +7,11 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("EmitLog")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("EmitLogs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Package Description")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("EmitLog")]
-[assembly: System.Reflection.AssemblyTitleAttribute("EmitLog")]
+[assembly: System.Reflection.AssemblyProductAttribute("EmitLogs")]
+[assembly: System.Reflection.AssemblyTitleAttribute("EmitLogs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

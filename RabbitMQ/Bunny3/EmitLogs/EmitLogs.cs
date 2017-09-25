@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ReceiveLogs
+namespace EmitLogs
 {
     class Program
     {
